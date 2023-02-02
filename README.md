@@ -1,1 +1,1 @@
-# Social Network Analsysis Laboratory
+# Social Network Analysis Laboratory
