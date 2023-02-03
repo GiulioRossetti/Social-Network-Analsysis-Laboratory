@@ -25,7 +25,7 @@ Once the container is ready the Jupyter lab service be available at [http://loca
 The SNALab image is available on Docker Hub. To run the container, simply execute the following command:
 
 ```bash
-  docker run -p 8000:8000 rossetti/snalab:latest
+  docker run -p 8000:8000 rossetti/snalab
 ```
 
 If you prefer not using the command line tools, you can also use the [Docker Desktop](https://www.docker.com/products/docker-desktop/) application to run the container (available for Windowns, MacOs and Linux).
