@@ -7,6 +7,8 @@
 
 This repository contains the Docker container specification for the Social Network Analysis Laboratory: a pre-configured Jupyter Lab environment offering tools and algorithms to model, analyze and visualize complex networks.
 
+**Note:** The main goal of this container is to offer a *stable* development environment, not to guarantee the *latest versions* of the installed libraries: SNA Lab will disentangle module dependency issues for you.
+
 ## Requirements
 
 To execute the container, you need to have Docker (and Docker Compose if you plan to build the image locally) installed on your machine. 
